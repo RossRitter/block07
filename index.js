@@ -8,4 +8,5 @@ const secondNumber = (20 + 20);
 console.log (secondNumber); // output should be 40
 const thirdNumber = (50 - 11);
 console.log (thirdNumber); // output should be 39
+window.alert("10, 40, 39"); // window.alert opens a window with the code numbers 10, 40, 39 got window alert from w3 schools
 
